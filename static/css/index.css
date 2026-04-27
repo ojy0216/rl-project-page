@@ -64,6 +64,16 @@ a:hover {
   margin-right: 0.35rem;
 }
 
+.publication-authors .affiliation-flag {
+  display: inline-block;
+  width: 0.95em;
+  height: auto;
+  margin-left: 0.12rem;
+  border: 0;
+  border-radius: 0;
+  vertical-align: -0.06em;
+}
+
 .publication-venue-group {
   display: flex;
   justify-content: center;
